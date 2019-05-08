@@ -8,3 +8,6 @@ A list of all the articles that I found useful about front-end web development a
 * [Learn HTML5](https://www.w3schools.com/html/default.asp)
 * [Dive Into HTML5](https://diveintohtml5.info/)
 * [HTML5 Element Reference](https://www.w3schools.com/tags/default.asp)
+
+## CSS
+* [Sass color functions](https://thoughtbot.com/blog/controlling-color-with-sass-color-functions)
