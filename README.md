@@ -10,6 +10,7 @@ A list of all the articles that I found useful about front-end web development a
 * [HTML5 Element Reference](https://www.w3schools.com/tags/default.asp)
 
 ## CSS
+* [Guidelines](https://cssguidelin.es/)
 * [Sass color functions](https://thoughtbot.com/blog/controlling-color-with-sass-color-functions)
 
 ## Newsletters to stay up to date
