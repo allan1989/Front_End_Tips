@@ -15,3 +15,6 @@ A list of all the articles that I found useful about front-end web development a
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
+
+## SEO
+* [Référencement Naturel (French)](https://www.pierre-giraud.com/seo/guide-complet/seo-guide-complet-introduction.php)
