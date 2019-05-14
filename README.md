@@ -13,6 +13,9 @@ A list of all the articles that I found useful about front-end web development a
 * [Guidelines](https://cssguidelin.es/)
 * [Sass color functions](https://thoughtbot.com/blog/controlling-color-with-sass-color-functions)
 
+## Javascript
+* [JSON](https://www.lebigdata.fr/json-definition)
+
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
 
