@@ -14,6 +14,7 @@ A list of all the articles that I found useful about front-end web development a
 * [Guidelines](https://cssguidelin.es/)
 * [Sass color functions](https://thoughtbot.com/blog/controlling-color-with-sass-color-functions)
 * [Flexbox: Guide complet](https://la-cascade.io/flexbox-guide-complet/)
+* [CSS Triggers](https://csstriggers.com/)
 
 ## Javascript
 * [JSON](https://www.lebigdata.fr/json-definition)
