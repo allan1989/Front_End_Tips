@@ -19,6 +19,7 @@ A list of all the articles that I found useful about front-end web development a
 
 ## Javascript
 * [JSON](https://www.lebigdata.fr/json-definition)
+* [JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
