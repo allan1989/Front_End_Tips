@@ -16,6 +16,7 @@ A list of all the articles that I found useful about front-end web development a
 * [Flexbox: Guide complet](https://la-cascade.io/flexbox-guide-complet/)
 * [CSS Triggers](https://csstriggers.com/)
 * [CSS Clip-path Maker](https://bennettfeely.com/clippy/)
+* [BEM](https://en.bem.info/)
 
 ## Javascript
 * [JSON](https://www.lebigdata.fr/json-definition)
