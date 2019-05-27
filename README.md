@@ -17,6 +17,7 @@ A list of all the articles that I found useful about front-end web development a
 * [CSS Triggers](https://csstriggers.com/)
 * [CSS Clip-path Maker](https://bennettfeely.com/clippy/)
 * [BEM](https://en.bem.info/)
+* [Ordering CSS Properties](https://pyx.space/post/keys-to-maintainable-css-order?utm_source=CSS-Weekly&utm_campaign=Issue-336&utm_medium=email)
 
 ## Javascript
 * [JSON](https://www.lebigdata.fr/json-definition)
