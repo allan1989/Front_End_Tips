@@ -23,6 +23,7 @@ A list of all the articles that I found useful about front-end web development a
 * [JSON](https://www.lebigdata.fr/json-definition)
 * [JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 * [Asynchronous JavaScript: How It Works](https://javascript.developpez.com/actu/102019/Apprendre-les-mecanismes-de-base-de-l-asynchrone-en-JavaScript-un-tutoriel-de-Yahiko/)
+* [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
