@@ -37,3 +37,4 @@ A list of all the articles that I found useful about front-end web development a
 ## Free Udacity Courses
 * [Website Performance Optimization](https://eu.udacity.com/course/website-performance-optimization--ud884)
 * [Web Accessibility](https://eu.udacity.com/course/web-accessibility--ud891)
+* [Intro to AJAX](https://eu.udacity.com/course/intro-to-ajax--ud110)
