@@ -40,3 +40,4 @@ A list of all the articles that I found useful about front-end web development a
 * [Intro to AJAX](https://eu.udacity.com/course/intro-to-ajax--ud110)
 * [Responsive Web Design](https://eu.udacity.com/course/responsive-web-design-fundamentals--ud893)
 * [Responsive Images](https://eu.udacity.com/course/responsive-images--ud882)
+* [Responsive Web Design Fundamentals] (https://eu.udacity.com/course/responsive-web-design-fundamentals--ud893)
