@@ -33,6 +33,7 @@ A list of all the articles that I found useful about front-end web development a
 
 ## ARIA
 * [Guide de l'intégrateur RGAA](https://disic.github.io/guide-integrateur/index.html)
+* [Accessible Rich Internet Applications (WAI-ARIA) 1.1](https://www.w3.org/TR/wai-aria/)
 
 ## Free Udacity Courses
 * [Website Performance Optimization](https://eu.udacity.com/course/website-performance-optimization--ud884)
@@ -40,4 +41,4 @@ A list of all the articles that I found useful about front-end web development a
 * [Intro to AJAX](https://eu.udacity.com/course/intro-to-ajax--ud110)
 * [Responsive Web Design](https://eu.udacity.com/course/responsive-web-design-fundamentals--ud893)
 * [Responsive Images](https://eu.udacity.com/course/responsive-images--ud882)
-* [Responsive Web Design Fundamentals] (https://eu.udacity.com/course/responsive-web-design-fundamentals--ud893)
+* [Responsive Web Design Fundamentals](https://eu.udacity.com/course/responsive-web-design-fundamentals--ud893)
