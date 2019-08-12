@@ -18,6 +18,7 @@ A list of all the articles that I found useful about front-end web development a
 * [CSS Clip-path Maker](https://bennettfeely.com/clippy/)
 * [BEM](https://en.bem.info/)
 * [Ordering CSS Properties](https://pyx.space/post/keys-to-maintainable-css-order)
+* [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 
 ## Javascript
 * [JSON](https://www.lebigdata.fr/json-definition)
