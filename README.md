@@ -49,3 +49,4 @@ Best Free Udacity courses: [here](https://www.guru99.com/udacity-free-courses.ht
 ### Other
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 * [A curated repository of Tools for FrontEnd devs and Designers](http://frontendtools.com/)
+* [Tools for FrontEnd Developers](http://frontendtools.com/)
