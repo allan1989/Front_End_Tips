@@ -47,7 +47,10 @@ A list of all the articles that I found useful about front-end web development a
 
 Best Free Udacity courses: [here](https://www.guru99.com/udacity-free-courses.html)
 
+## Tools
+* [Tools for FrontEnd Developers](http://frontendtools.com/)
+* [Color Review](https://color.review/)
+
 ### Other
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
 * [A curated repository of Tools for FrontEnd devs and Designers](http://frontendtools.com/)
-* [Tools for FrontEnd Developers](http://frontendtools.com/)
