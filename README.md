@@ -27,6 +27,9 @@ A list of all the articles that I found useful about front-end web development a
 * [Asynchronous JavaScript: How It Works](https://javascript.developpez.com/actu/102019/Apprendre-les-mecanismes-de-base-de-l-asynchrone-en-JavaScript-un-tutoriel-de-Yahiko/)
 * [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
 * [Remove Element From Array](https://www.hostingadvice.com/how-to/javascript-remove-element-array/)
+* [JavaScript properties](http://arqex.com/967/javascript-properties-enumerable-writable-configurable)
+* [Object Composition in JavaScript](https://medium.com/code-monkey/object-composition-in-javascript-2f9b9077b5e6)
+* [Factory Functions](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
