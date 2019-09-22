@@ -13,7 +13,7 @@ A list of all the articles that I found useful about front-end web development a
 ## CSS
 * [Guidelines](https://cssguidelin.es/)
 * [How To Name CSS Classes](http://bdavidxyz.com/blog/how-to-name-css-classes/)
-* [Sass color functions](https://thoughtbot.com/blog/controlling-color-with-sass-color-functions)
+* [Sass color function Calculator](https://razorltd.github.io/sasscolourfunctioncalculator/)
 * [Sass: Complete Tutorial](https://www.tutorialsteacher.com/sass)
 * [Flexbox: Guide complet](https://la-cascade.io/flexbox-guide-complet/)
 * [CSS Triggers](https://csstriggers.com/)
