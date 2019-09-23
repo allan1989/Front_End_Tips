@@ -23,6 +23,7 @@ A list of all the articles that I found useful about front-end web development a
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 
 ## Javascript
+* [The Modern JavaScript Tutorial](https://javascript.info/)
 * [JSON](https://www.lebigdata.fr/json-definition)
 * [JavaScript Design Patterns](https://www.toptal.com/javascript/comprehensive-guide-javascript-design-patterns)
 * [Asynchronous JavaScript: How It Works](https://javascript.developpez.com/actu/102019/Apprendre-les-mecanismes-de-base-de-l-asynchrone-en-JavaScript-un-tutoriel-de-Yahiko/)
