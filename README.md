@@ -21,6 +21,8 @@ A list of all the articles that I found useful about front-end web development a
 * [BEM](https://en.bem.info/)
 * [Ordering CSS Properties](https://pyx.space/post/keys-to-maintainable-css-order)
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
+* [Compress SVG](https://jakearchibald.github.io/svgomg/)
+* [PNG to SVG](https://onlineconvertfree.com/fr/convert-format/png-to-svg/)
 
 ## Javascript
 * [The Modern JavaScript Tutorial](https://javascript.info/)
@@ -32,6 +34,7 @@ A list of all the articles that I found useful about front-end web development a
 * [JavaScript properties](http://arqex.com/967/javascript-properties-enumerable-writable-configurable)
 * [Object Composition in JavaScript](https://medium.com/code-monkey/object-composition-in-javascript-2f9b9077b5e6)
 * [Factory Functions](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
+* [Regular Expressions 101](https://regex101.com/)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
