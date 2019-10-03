@@ -65,6 +65,7 @@ Best Free Udacity courses: [here](https://www.guru99.com/udacity-free-courses.ht
 ## Tools
 * [Tools for FrontEnd Developers](http://frontendtools.com/)
 * [Color Review](https://color.review/)
+* [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 ### Other
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
