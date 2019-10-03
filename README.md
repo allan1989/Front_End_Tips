@@ -36,6 +36,7 @@ A list of all the articles that I found useful about front-end web development a
 * [Factory Functions](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
 * [Regular Expressions 101](https://regex101.com/)
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+* [OOP: Introduction to object-oriented JavaScript](https://webplatform.github.io/docs/concepts/programming/javascript/OOJ/)
 * [OOP: Abstraction](https://medium.com/@viktor.kukurba/object-oriented-programming-in-javascript-1-abstraction-c47307c469d1)
 * [OOP: Inheritance](https://medium.com/@viktor.kukurba/object-oriented-programming-in-javascript-2-inheritance-447368f57a26)
 * [OOP: Polymorphism](https://medium.com/@viktor.kukurba/object-oriented-programming-in-javascript-3-polymorphism-fb564c9f1ce8)
