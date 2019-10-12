@@ -41,6 +41,7 @@ A list of all the articles that I found useful about front-end web development a
 * [OOP: Inheritance](https://medium.com/@viktor.kukurba/object-oriented-programming-in-javascript-2-inheritance-447368f57a26)
 * [OOP: Polymorphism](https://medium.com/@viktor.kukurba/object-oriented-programming-in-javascript-3-polymorphism-fb564c9f1ce8)
 * [OOP: Encapsulation](https://medium.com/@viktor.kukurba/object-oriented-programming-in-javascript-4-encapsulation-4f9165cd26f9)
+* [Ditch the .forEach.call NodeList hack](https://ultimatecourses.com/blog/ditch-the-array-foreach-call-nodelist-hack)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
