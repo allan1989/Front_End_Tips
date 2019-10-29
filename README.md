@@ -69,6 +69,9 @@ Best Free Udacity courses: [here](https://www.guru99.com/udacity-free-courses.ht
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [HandBrake: The open source video transcoder](https://handbrake.fr/features.php)
 
+## Sample
+* [Videos](https://gist.github.com/jsturgis/3b19447b304616f18657)
+
 
 ### Other
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
