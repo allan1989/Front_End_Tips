@@ -9,6 +9,7 @@ A list of all the articles that I found useful about front-end web development a
 * [Dive Into HTML5](https://diveintohtml5.info/)
 * [HTML5 Element Reference](https://www.w3schools.com/tags/default.asp)
 * [DOM (Document Object Model)](https://bitsofco.de/what-exactly-is-the-dom/)
+* [Reference for HTML Symbols, Entities and ASCII Character ](https://www.toptal.com/designers/htmlarrows/)
 
 ## CSS
 * [Guidelines](https://cssguidelin.es/)
