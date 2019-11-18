@@ -23,6 +23,7 @@ A list of all the articles that I found useful about front-end web development a
 * [Paletton - The Color Scheme Designer](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)
 * [Compress SVG](https://jakearchibald.github.io/svgomg/)
 * [PNG to SVG](https://onlineconvertfree.com/fr/convert-format/png-to-svg/)
+* [Media Queries Screen Orientation](https://www.creativebloq.com/web-design/master-screen-orientation-html5-101517371)
 
 ## Javascript
 * [The Modern JavaScript Tutorial](https://javascript.info/)
