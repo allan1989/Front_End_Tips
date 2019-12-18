@@ -45,7 +45,7 @@ A list of all the articles that I found useful about front-end web development a
 * [OOP: Encapsulation](https://medium.com/@viktor.kukurba/object-oriented-programming-in-javascript-4-encapsulation-4f9165cd26f9)
 * [Ditch the .forEach.call NodeList hack](https://ultimatecourses.com/blog/ditch-the-array-foreach-call-nodelist-hack)
 * [Introduction to the MutationObserver API](https://benfrain.com/an-introduction-to-the-javascript-mutationobserver-api/)
-* [Introduction to Scope (function scope, block scope)](javascript.developpez.com/)
+* [Introduction to Scope: function scope, block scope](javascript.developpez.com/)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
