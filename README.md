@@ -26,6 +26,7 @@ A list of all the articles that I found useful about front-end web development a
 * [PNG to SVG](https://onlineconvertfree.com/fr/convert-format/png-to-svg/)
 * [Media Queries Screen Orientation](https://www.creativebloq.com/web-design/master-screen-orientation-html5-101517371)
 * [(Astuce) Utiliser les transitions CSS avec height:auto](http://www.css3create.com/Astuce-Utiliser-les-transitions-CSS-avec-height-auto)
+* [Techniques to center an HTML element](https://tipue.com/blog/center-a-div/)
 
 ## Javascript
 * [The Modern JavaScript Tutorial](https://javascript.info/)
