@@ -48,6 +48,7 @@ A list of all the articles that I found useful about front-end web development a
 * [Ditch the .forEach.call NodeList hack](https://ultimatecourses.com/blog/ditch-the-array-foreach-call-nodelist-hack)
 * [Introduction to the MutationObserver API](https://benfrain.com/an-introduction-to-the-javascript-mutationobserver-api/)
 * [Introduction to Scope: function scope, block scope](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)
+* [jsPerf — JavaScript performance playground](https://jsperf.com/)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
