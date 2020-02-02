@@ -27,6 +27,7 @@ A list of all the articles that I found useful about front-end web development a
 * [Media Queries Screen Orientation](https://www.creativebloq.com/web-design/master-screen-orientation-html5-101517371)
 * [(Astuce) Utiliser les transitions CSS avec height:auto](http://www.css3create.com/Astuce-Utiliser-les-transitions-CSS-avec-height-auto)
 * [Techniques to center an HTML element](https://tipue.com/blog/center-a-div/)
+* [Can I Animate](http://canianimate.com/)
 
 ## Javascript
 * [The Modern JavaScript Tutorial](https://javascript.info/)
@@ -49,6 +50,7 @@ A list of all the articles that I found useful about front-end web development a
 * [Introduction to the MutationObserver API](https://benfrain.com/an-introduction-to-the-javascript-mutationobserver-api/)
 * [Introduction to Scope: function scope, block scope](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)
 * [jsPerf — JavaScript performance playground](https://jsperf.com/)
+* [Array Explorer](https://arrayexplorer.netlify.com/)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
@@ -79,6 +81,7 @@ Best Free Udacity courses: [here](https://www.guru99.com/udacity-free-courses.ht
 * [Diff Checkers](https://www.diffchecker.com/diff)
 * [CDN JS](https://cdnjs.com/#)
 * [GTmetrix](https://gtmetrix.com/)
+* [Responsive Breakpoints](https://www.responsivebreakpoints.com/)
 
 ## Sample
 * [Videos](https://gist.github.com/jsturgis/3b19447b304616f18657)
