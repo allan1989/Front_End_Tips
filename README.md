@@ -51,6 +51,7 @@ A list of all the articles that I found useful about front-end web development a
 * [Introduction to Scope: function scope, block scope](https://dev.to/sandy8111112004/javascript-introduction-to-scope-function-scope-block-scope-d11)
 * [jsPerf — JavaScript performance playground](https://jsperf.com/)
 * [Array Explorer](https://arrayexplorer.netlify.com/)
+* [5 Best Practices to Write Quality Arrow Functions](https://dmitripavlutin.com/javascript-arrow-functions-best-practices/)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
