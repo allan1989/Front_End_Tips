@@ -54,6 +54,7 @@ A list of all the articles that I found useful about front-end web development a
 * [5 Best Practices to Write Quality Arrow Functions](https://dmitripavlutin.com/javascript-arrow-functions-best-practices/)
 * [La Méthode Bind](https://www.xul.fr/ecmascript/bind.php)
 * [Décomposition et déstructuration en Javascript](https://blog.nathanaelcherrier.com/fr/decomposition-et-destructuration-en-javascript/)
+* [A Gentle Introduction to Algorithms and Data Structures](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms/a-gentle-introduction-to-algorithms-and-data-structures)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
