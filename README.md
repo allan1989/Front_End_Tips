@@ -56,6 +56,7 @@ A list of all the articles that I found useful about front-end web development a
 * [Décomposition et déstructuration en Javascript](https://blog.nathanaelcherrier.com/fr/decomposition-et-destructuration-en-javascript/)
 * [A Gentle Introduction to Algorithms and Data Structures](https://scotch.io/courses/the-ultimate-guide-to-javascript-algorithms/a-gentle-introduction-to-algorithms-and-data-structures)
 * [The Best Way to Document JavaScript](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
+* [Recursion](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
