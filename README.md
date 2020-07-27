@@ -28,6 +28,7 @@ A list of all the articles that I found useful about front-end web development a
 * [(Astuce) Utiliser les transitions CSS avec height:auto](http://www.css3create.com/Astuce-Utiliser-les-transitions-CSS-avec-height-auto)
 * [Techniques to center an HTML element](https://tipue.com/blog/center-a-div/)
 * [Can I Animate](http://canianimate.com/)
+* [OOCSS](https://www.keycdn.com/blog/oocss)
 
 ## Javascript
 * [The Modern JavaScript Tutorial](https://javascript.info/)
