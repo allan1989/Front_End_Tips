@@ -96,3 +96,4 @@ Best Free Udacity courses: [here](https://www.guru99.com/udacity-free-courses.ht
 
 ### Other
 * [101 Tips For Being A Great Programmer (& Human)](https://dev.to/emmawedekind/101-tips-for-being-a-great-programmer-human-36nl)
+* [1 line layouts techniques](http://1linelayouts.glitch.me/)
