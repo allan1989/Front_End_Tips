@@ -59,6 +59,9 @@ A list of all the articles that I found useful about front-end web development a
 * [The Best Way to Document JavaScript](https://gomakethings.com/whats-the-best-way-to-document-javascript/)
 * [Recursion](https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339)
 
+## Vue
+* [Différence entre v-model et v-bind](https://qastack.fr/programming/42260233/vue-js-difference-between-v-model-and-v-bind)
+
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
 
