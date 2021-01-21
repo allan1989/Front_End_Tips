@@ -61,6 +61,7 @@ A list of all the articles that I found useful about front-end web development a
 
 ## Vue
 * [Différence entre v-model et v-bind](https://qastack.fr/programming/42260233/vue-js-difference-between-v-model-and-v-bind)
+* [Différence entre computed values et watch](https://medium.com/@arieldi/bref-comprendre-le-computed-en-profondeur-dans-vue-js-ses-diff%C3%A9rences-avec-watch-methods-62635c2bb394)
 
 ## Newsletters to stay up to date
 * [List of newsletters (HTML, CSS, JS)](http://azu.github.io/Meta-Weekly/)
